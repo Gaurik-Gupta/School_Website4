@@ -1,0 +1,47 @@
+body {
+    font-family: 'Alkatra', cursive;
+}
+
+.heading {
+    background-color: rgb(8, 0, 255);
+    padding-top: 0.005px;
+    width: 75%;
+    text-align: center;
+}
+
+.my-nav-bar {
+    position: sticky;
+    top: 0;
+    z-index:99999;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.movie_head i{
+    color: rgb(255, 255, 255);
+}
+
+.s1 {
+    color: orange;
+}
+
+#list {
+    list-style-position: inside;
+    text-align: center;
+}
+.new{
+    margin-bottom: 20px;
+}
+
+.contact iframe{
+    width: 100%;
+}
